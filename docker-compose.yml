@@ -1,0 +1,8 @@
+version: '3'
+services:
+    app:
+        build: '.'
+        image: 'pht'
+        entrypoint:
+            - 'php'
+            - '/srv/vendor/autoload.php'

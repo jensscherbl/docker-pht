@@ -1,0 +1,8 @@
+**/.DS_Store
+**/.gitkeep
+docker-compose.yml
+Dockerfile
+LICENSE
+README.md
+.dockerignore
+.git
